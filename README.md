@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Jiajie He
+- 👋 Hi, I’m Richard He
 - 👀 I’m interested in ML algorithm and research in AI field
-- 🌱 I’m currently learning data related knowledges
-- 💞️ I’m looking for challenging data scientist and data engineering 
-- 📫 welcome to contact me by jiajiehe@usc.edu
+- 📫 welcome to contact me by jiajieh1@umbc.edu
 
 <!---
 Richardwarriors/Richardwarriors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
